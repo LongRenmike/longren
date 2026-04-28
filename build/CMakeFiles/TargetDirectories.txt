@@ -1,0 +1,6 @@
+/home/seekfree/Desktop/new/zhinengche/build/CMakeFiles/common_lib.dir
+/home/seekfree/Desktop/new/zhinengche/build/CMakeFiles/edit_cache.dir
+/home/seekfree/Desktop/new/zhinengche/build/CMakeFiles/rebuild_cache.dir
+/home/seekfree/Desktop/new/zhinengche/build/main/CMakeFiles/zhinengche.dir
+/home/seekfree/Desktop/new/zhinengche/build/main/CMakeFiles/edit_cache.dir
+/home/seekfree/Desktop/new/zhinengche/build/main/CMakeFiles/rebuild_cache.dir
